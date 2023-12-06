@@ -1,0 +1,16 @@
+---
+title: "Untitled"
+author: "yasmin"
+date: "2023-12-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Research Question: Is there a relationship between Grafitti occurance and poverty status within the city of San Francisco?
+
+Hypothesis: there is a positive relationship between Graffitti occurance and poverty status within the city
+
+Null Hypo: there is no relationship between these two.
+
